@@ -1,0 +1,28 @@
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.exe.config
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.exe
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.pdb
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.Form1.resources
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.Properties.Resources.resources
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.csproj.GenerateResource.Cache
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.exe
+C:\Users\Erik\Documents\Visual Studio 2013\Projects\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.pdb
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.exe.config
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.exe
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.pdb
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.exe
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.pdb
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.csprojResolveAssemblyReference.cache
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.Form1.resources
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.Properties.Resources.resources
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.csproj.GenerateResource.Cache
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.exe.config
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.exe
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.pdb
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.exe
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\ParadiseHotel.pdb
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.csprojResolveAssemblyReference.cache
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.Form1.resources
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.Properties.Resources.resources
+C:\Users\Erik\Dropbox\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\obj\Debug\ParadiseHotel.csproj.GenerateResource.Cache
+D:\Dropbox\Skole\PRG-2000 - Obligatorisk Oppgave\oppgave2\ParadiseHotel\ParadiseHotel\bin\Debug\MySql.Data.dll
